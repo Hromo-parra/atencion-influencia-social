@@ -56,3 +56,7 @@ No hay dependencias externas ni proceso de compilación. El repositorio completo
 - `PROTOCOL.md`: decisiones metodológicas implementadas.
 - `DATA_DICTIONARY.md`: diccionario de variables.
 - `MANUAL-DE-APLICACION.md`: guía para docente/investigador.
+
+## Demo para presentación
+
+Abre [demo.html](demo.html) o el botón «Demo para presentación» en la app. El recorrido interactivo muestra una versión abreviada del procedimiento con ejemplos ficticios. No solicita consentimiento, no guarda respuestas y no exporta datos de investigación. La demo no reemplaza el protocolo completo ni la sesión de participante.
